@@ -1,9 +1,125 @@
 {
   "movies": [
     {
-      "id": 1,
-      "title": "Shrek",
-      "rating": 5
+      "id": 4,
+      "title": "Resident Evil",
+      "director": "Paul W.S. Anderson",
+      "year": "2002",
+      "actors": "Milla Jovovich, Michelle Rodriguez, Eric Mabius, Martin Crewes",
+      "plot": "A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.",
+      "genre": "Action, Horror, Sci-Fi",
+      "rating": "4",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Dune",
+      "director": "Denis Villeneuve",
+      "year": "2021",
+      "actors": "Timothée Chalamet, Zendaya, Rebecca Ferguson, Oscar Isaac, Jason Momoa, Stellan Skarsgård",
+      "plot": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence, only those who can conquer their own fear will survive.",
+      "genre": "Action, Adventure, Sci-Fi",
+      "rating": "3",
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPqS6UaUbAFXbexufzQLa9PrCxjjw5MFTsEjsDC0ppVOhBcrmw"
+    },
+    {
+      "id": 6,
+      "title": "Black Adam",
+      "director": "Jaume Collet-Serra",
+      "year": "2022",
+      "actors": "Dwayne Johnson, Sarah Shahi, Henry Cavill, Pierce Brosnan, Quintessa Swindell, Noah Centineo",
+      "plot": "In ancient Kahndaq, Teth Adam was bestowed the almighty powers of the gods. After using these powers for vengeance, he was imprisoned, becoming Black Adam. Nearly 5,000 years have passed, and Black Adam has gone from man to myth to legend. Now free, his unique form of justice, born out of rage, is challenged by modern-day heroes who form the Justice Society: Hawkman, Dr. Fate, Atom Smasher and Cyclone.",
+      "genre": "Action, Adventure, Sci-Fi",
+      "rating": "3",
+      "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7z46quZTThLvU4GVoaKuD0at1K9oUCdnI8C4O8lwm6F1KpYFt"
+    },
+    {
+      "id": 7,
+      "title": "Knowing",
+      "director": "Alex Proyas",
+      "year": "2009",
+      "actors": "Nicolas Cage, Rose Byrne, Chandler Canterbury, Lara Robinson, Nadia Townsend, Liam Hemsworth",
+      "plot": "Fifty years after it was buried in a time capsule, a schoolgirl's cryptic document falls into the hands of Caleb Koestler, the son of professor John Koestler (Nicolas Cage). John figures out that the encoded message accurately lists every major disaster from the past five decades, and predicts three future calamities -- one a global cataclysm. When his warnings fall on deaf ears, John enlists the help of the prophetic author's daughter and granddaughter to try to avert the ultimate disaster.",
+      "genre": "Action, Adventure, Sci-Fi, Thriller",
+      "rating": "4",
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwRJPhw03lFZboKq6GVRhV9rDeGisa30BM3k5CWQbEH5959wBP"
+    },
+    {
+      "id": 8,
+      "title": "The Departed",
+      "director": "Martin Scorsese",
+      "year": "2006",
+      "actors": "Vera Farmiga, Jack Nicholson, Leonardo DiCaprio, Matt Damon, Mark Wahlberg",
+      "plot": "South Boston cop Billy Costigan (Leonardo DiCaprio) goes under cover to infiltrate the organization of gangland chief Frank Costello (Jack Nicholson). As Billy gains the mobster's trust, a career criminal named Colin Sullivan (Matt Damon) infiltrates the police department and reports on its activities to his syndicate bosses. When both organizations learn they have a mole in their midst, Billy and Colin must figure out each other's identities to save their own lives.",
+      "genre": "Crime, Drama, Thriller",
+      "rating": "4",
+      "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU0SP40gBSnIxxWMpN4-OYUXDRKsOFZX6L5dNv0srZlwKiAlvy"
+    },
+    {
+      "id": 9,
+      "title": "Top Gun: Maverick",
+      "director": "Joseph Kosinski",
+      "year": "2022",
+      "actors": "Tom Cruise, Miles Teller, Val Kilmer, Glen Powell, Jennifer Connelly, Jon Hamm",
+      "plot": "After more than 30 years of service as one of the Navy's top aviators, Pete \"Maverick\" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it.",
+      "genre": "Action, Adventure, Military",
+      "rating": "5",
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSu_HQf7Sgkij6NptUWlEKf6V9n5bC5cL1JfGFNylGC8VnfN_-N"
+    },
+    {
+      "id": 10,
+      "title": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "year": "2008",
+      "actors": "Christian Bale, Heath Ledger, Gary Oldman, Morgan Freeman, Aaron Eckhart, Michael Caine",
+      "plot": "With the help of allies Lt. Jim Gordon (Gary Oldman) and DA Harvey Dent (Aaron Eckhart), Batman (Christian Bale) has been able to keep a tight lid on crime in Gotham City. But when a vile young criminal calling himself the Joker (Heath Ledger) suddenly throws the town into chaos, the caped Crusader begins to tread a fine line between heroism and vigilantism.",
+      "genre": "Action, Adventure",
+      "rating": "4",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOH1Z3WEv-NS_ahc7NSQRz1LTh813Z6sMmI_E7d1_FYpQd0MxY"
+    },
+    {
+      "id": 11,
+      "title": "Interstellar",
+      "director": "Christopher Nolan",
+      "year": "2014",
+      "actors": "Matthew McConaughey, Jessica Chastain, Anne Hathaway, Mackenzie Foy, Timothée Chalamet, Matt Damon",
+      "plot": "In Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand (Michael Caine), a brilliant NASA physicist, is working on plans to save mankind by transporting Earth's population to a new home via a wormhole. But first, Brand must send former NASA pilot Cooper (Matthew McConaughey) and a team of researchers through the wormhole and across the galaxy to find out which of three planets could be mankind's new home.",
+      "genre": "Action, Adventure, Sci-Fi, Drama",
+      "rating": "5",
+      "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUw076GR7JpnfExoBLTMpiE9otUzk518SylUdC1roF6Ah63NS9"
+    },
+    {
+      "id": 12,
+      "title": "Zero Dark Thirty",
+      "director": "Kathryn Bigelow",
+      "year": "2012",
+      "actors": "Jessica Chastain, Jason Clarke, Joel Edgerton, Kyle Chandler, Chris Pratt",
+      "plot": "Following the terrorist attacks of Sept. 11, 2001, Osama bin Laden becomes one of the most-wanted men on the planet. The worldwide manhunt for the terrorist leader occupies the resources and attention of two U.S. presidential administrations. Ultimately, it is the work of a dedicated female operative (Jessica Chastain) that proves instrumental in finally locating bin Laden. In May 2011, Navy SEALs launch a nighttime strike, killing bin Laden in his compound in Abbottabad, Pakistan.",
+      "genre": "Action, War, Drama, Thriller",
+      "rating": "4",
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGD_Fr7pPSNw240zATDLHohFXvzGPZsOZYhzFhCX4EhHgLWB7p"
+    },
+    {
+      "id": 13,
+      "title": "Sicario",
+      "director": "Denis Villeneuve",
+      "year": "2012",
+      "actors": "Benicio del Toro, Emily Blunt, Josh Brolin, Jeffrey Donovan, Jon Bernthal, Daniel Kaluuya",
+      "plot": "After rising through the ranks of her male-dominated profession, idealistic FBI agent Kate Macer (Emily Blunt) receives a top assignment. Recruited by mysterious government official Matt Graver (Josh Brolin), Kate joins a task force for the escalating war against drugs. Led by the intense and shadowy Alejandro (Benicio del Toro), the team travels back-and-forth across the U.S.-Mexican border, using one cartel boss (Bernardo Saracino) to flush out a bigger one (Julio Cesar Cedillo).",
+      "genre": "Action, Crime, Drama, Thriller",
+      "rating": "5",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuzbCGfiyGHbZmLdVBytmxhAUVTSqkEKMHcse84GDyiJqOizBY"
+    },
+    {
+      "title": "Black Hawk Downwergwer",
+      "director": "Ridley Scott",
+      "year": "2001",
+      "actors": "Josh Hartnett, Ewan McGregor, Tom Sizemore, Eric Bana",
+      "plot": "160 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.",
+      "genre": "Drama, History, War",
+      "rating": "5",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWMwMzQxZjQtODM1YS00YmFiLTk1YjQtNzNiYWY1MDE4NTdiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+      "id": 14
     }
   ]
 }
